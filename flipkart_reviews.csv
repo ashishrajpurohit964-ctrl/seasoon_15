@@ -1,0 +1,11 @@
+review_id,product_name,product_category,rating,review_text,review_date,verified_purchase
+1,Samsung Galaxy Phone,Electronics,5,Excellent product and fast delivery,2026-09-01,Yes
+2,Nike Running Shoes,Footwear,4,Comfortable shoes for daily use,2026-09-02,Yes
+3,HP Laptop,Electronics,5,Good performance and battery life,2026-09-03,Yes
+4,Cotton T Shirt,Clothing,3,Average quality for the price,2026-09-04,No
+5,Wireless Earbuds,Electronics,4,Good sound quality,2026-09-05,Yes
+6,Office Chair,Furniture,2,Uncomfortable after long use,2026-09-06,Yes
+7,Smart Watch,Electronics,5,Excellent features and design,2026-09-07,Yes
+8,Running Shoes,Footwear,4,Very comfortable and lightweight,2026-09-08,No
+9,Cotton T Shirt,Clothing,4,Good fabric quality,2026-09-09,Yes
+10,HP Laptop,Electronics,5,Excellent performance,2026-09-10,Yes

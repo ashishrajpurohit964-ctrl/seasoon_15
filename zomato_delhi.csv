@@ -1,0 +1,10 @@
+restaurant_name	       cuisine	       rating	cost_for_two	online_order	city
+Delhi Darbar	       Mughlai	        4.0	        600	            Yes	        Delhi
+Capital Curry	       North Indian	    4.1      	550	            Yes	        Delhi
+Old Delhi Kitchen	    Mughlai	        4.3	        700	            No	        Delhi
+Green Plate	           Healthy Food	    3.9	        450	            Yes	        Delhi
+Dilli Tandoor	       North Indian	    4.4	        650	            Yes	        Delhi
+Metro Bites	           Fast Food	    3.7	        300	            Yes	        Delhi
+Chaat Street	       Street Food	    4.2	        250	            Yes	        Delhi
+Pasta Palace	       Italian	        3.8	        650	            Yes	        Delhi
+Spice Market	       Multi-cuisine	4.0	        600	            No	        Delhi

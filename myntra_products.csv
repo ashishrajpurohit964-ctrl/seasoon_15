@@ -1,0 +1,11 @@
+product_id,product_name,brand,category,price_inr,discount_percent,rating,rating_count,gender
+1001,Men Slim Fit T-Shirt,Roadster,T-Shirts,799,20,4.1,1250,Men
+1002,Women Floral Kurta,Anouk,Kurtas,1499,35,4.3,980,Women
+1003,Running Shoes,HRX,Sports Shoes,2499,25,4.4,2100,Unisex
+1004,Denim Jeans,Roadster,Jeans,1899,30,4.0,1750,Men
+1005,Casual Sneakers,Puma,Casual Shoes,3299,40,4.5,3200,Unisex
+1006,Leather Wallet,Wildcraft,Accessories,599,15,4.2,850,Men
+1007,Women Handbag,Lavie,Bags,2199,25,4.1,1450,Women
+1008,Formal Shirt,Arrow,Shirts,1299,20,4.0,1100,Men
+1009,Sports Watch,Noise,Watches,2799,30,4.3,2600,Unisex
+1010,Cotton Saree,Sangria,Sarees,1999,35,4.2,900,Women
